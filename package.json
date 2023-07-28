@@ -4,6 +4,7 @@
   "description": "",
   "type": "module",
   "main": "server.js",
+  "proxy":"https://placementpreparation-rnnqg2iyi-sshubham001.vercel.app"
   "scripts": {
     "start": "node server.js"
   },
